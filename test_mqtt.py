@@ -73,6 +73,7 @@ def main():
         print("[MasterController]: Pareconfig error")
         exit()
 
+
     # tracemalloc.start()
     # gc.enable()
     SetupConfig(config)
